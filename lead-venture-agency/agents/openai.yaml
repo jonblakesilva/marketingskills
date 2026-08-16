@@ -1,0 +1,14 @@
+interface:
+  display_name: Lead Venture Agency
+  short_description: Grow local service businesses with proven agency workflows
+  default_prompt: Use the Lead Venture Agency team to solve this local service business
+    marketing task.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
